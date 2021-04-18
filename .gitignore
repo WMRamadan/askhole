@@ -132,3 +132,6 @@ dmypy.json
 
 # ignore model files
 *.model
+
+# ignore pickle files
+*.pkl
